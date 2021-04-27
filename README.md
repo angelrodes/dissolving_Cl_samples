@@ -4,6 +4,6 @@ This script simulates the effect of evaporation on final 35Cl-36Cl-37Cl ratios.
 
 The output looks like this:
 
-![Output](http://url/to/img.png)
+![Output](https://raw.githubusercontent.com/angelrodes/dissolving_Cl_samples/main/output.png)
 
 Ángel Rodés, SUERC 2018
