@@ -2,7 +2,7 @@
 
 This script simulates the effect of evaporation on the 35Cl-36Cl-37Cl ratios in the liquid during and after the spiking and dissoultion stages.
 
-These are the first *wet* laboratory procedures in the sample preparation for 36Cl analysis in the AMS. The carrier is usually a solution with low 36Cl content and enriched in 35Cl. The latter is used to calculate the total Cl content in the sample by [isotope dilution](https://doi.org/10.1016/j.quageo.2009.08.001).
+These are the first *wet* laboratory procedures in the sample preparation for [36Cl analysis by AMS](https://doi.org/10.1016/j.nimb.2009.10.021). The carrier is usually a solution with low 36Cl content and enriched in 35Cl. The latter is used to calculate the total Cl content in the sample by [isotope dilution](https://doi.org/10.1016/j.quageo.2009.08.001).
 
 The output looks like this:
 
